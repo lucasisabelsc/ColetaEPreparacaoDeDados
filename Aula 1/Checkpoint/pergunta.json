@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "lucas",
+        "idade": 33,
+        "profissao": [
+            "professor",
+            "pesquisador",
+            "analista de sistemas"
+        ]
+    },
+    {
+        "nome": "rafael",
+        "profissao": [
+            "professor",
+            "cfo"
+        ]
+    },
+    {
+        "nome": "ana",
+        "idade": 30,
+        "profissao": [
+            "nutricionista"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+<movies>
+   <movie>
+      <name>The Lord of the Rings: The Fellowship of the Ring</name>
+      <year>2001</year>
+      <runtime>178</runtime>
+      <categories>
+         <category>action</category>
+         <category>adventure</category>
+         <category>drama</category>
+         <category>fantasy</category>
+      </categories>
+      <release-date>2001-12-19</release-date>
+      <director>Peter Jackson</director>
+      <writers>
+         <writer>J.R.R. Tolkien</writer>
+         <writer>Fran Walsh</writer>
+         <writer>Philippa Boyens</writer>
+         <writer>Peter Jackson</writer>
+      </writers>
+      <actors>
+         <actor>Elijah Wood</actor>
+         <actor>Ian McKellen</actor>
+         <actor>Orlando Bloom</actor>
+      </actors>
+   </movie>
+</movies>

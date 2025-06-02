@@ -1,0 +1,2 @@
+curl -ksvDL --request GET 'https://reqres.in/api/users' -o /dev/null
+curl -ksvDL --request GET 'https://www.pucrs.br' -o /dev/null

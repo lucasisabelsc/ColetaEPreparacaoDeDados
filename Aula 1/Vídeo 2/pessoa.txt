@@ -1,0 +1,11 @@
+nome: linus torvalds
+dt_nascimento: 28-dez-1969
+profissao: engenheiro de software
+
+nome: alan mathison turing
+dt_nascimento: 23-jun-1912
+profissao: matematico
+
+nome: timothy john berners-lee
+dt_nascimento: 12-mar-1989
+profissao: físico
